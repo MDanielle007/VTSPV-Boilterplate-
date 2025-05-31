@@ -1,7 +1,3 @@
-Here’s the updated `README.md` based on your description:
-
----
-
 # Vue 3 + TypeScript + Tailwind + PrimeVue Template
 
 This is a **Vue 3** frontend template built with **TypeScript** and **Vite**, styled using **Tailwind CSS v3.4**. It uses **PrimeVue** as the component library along with **PrimeIcons** for icons. State management is handled with **Pinia**, and styles are extended with **Sass**. It includes basic **login** and **register** pages, as well as a basic application layout to help you get started quickly.
